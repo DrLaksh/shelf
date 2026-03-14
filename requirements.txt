@@ -1,0 +1,4 @@
+ttkbootstrap
+py7zr
+rarfile
+send2trash
