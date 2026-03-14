@@ -24,7 +24,7 @@ common file and folder operations through a polished dark UI.
 
 ```bash
 pip install -r requirements.txt
-python filekit.py
+python shelf.py
 ```
 
 > Python 3.8+ required. Download from https://python.org
@@ -48,7 +48,7 @@ Dark sidebar navigation, live log output, folder browser — all in one window.
 ## 📁 Project Structure
 
 ```
-filekit.py          ← Main app (single file, all tools included)
+shelf.py          ← Main app (single file, all tools included)
 requirements.txt    ← Python dependencies
 README.md
 ```
